@@ -1,0 +1,23 @@
+.hero{
+    display:flex;
+    gap:20px;
+    align-items:center;
+}
+
+.hero img{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+}
+
+.skills{
+    margin-top:15px;
+}
+
+.skills span{
+    background:#009688;
+    color:white;
+    padding:8px 12px;
+    border-radius:20px;
+    margin-right:10px;
+}
