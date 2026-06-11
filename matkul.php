@@ -9,7 +9,7 @@
 <h2>Informasi Mata Kuliah Laboratorium</h2>
 
 <p><b>Nama :</b> Asyla Salsabil Putri Kurniawan</p>
-<p><b>NIM :</b> 202432069</p>
+<p><b>NIM :</b> 202431XXX</p>
 
 <form method="POST">
 
